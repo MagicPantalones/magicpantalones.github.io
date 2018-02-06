@@ -1,0 +1,30 @@
+@charset "utf-8";
+/* CSS Document */
+body{
+	background: #CFD8DC;
+	font-family: 'Roboto';
+	color: #212121;
+}
+
+#my-main-text{
+	text-align: center;
+}
+
+#viewmagics-proj, #hcons-proj{
+	margin-top: 20px;
+}
+
+h1{
+	font-family: "cuisine";
+	color: #455A64;
+	margin-top: 50px;
+}
+
+.img-shadow{
+	box-shadow: 2px 2px 10px #212121;
+}
+
+.line-seperator{
+	width: 90%;
+	border: 0.5px double #455a64;
+}
