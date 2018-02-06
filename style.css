@@ -28,3 +28,10 @@ h1{
 	width: 90%;
 	border: 0.5px double #455a64;
 }
+
+.sig{
+	bottom: 0px;
+	margin-top: 40px;
+	font-style: italic;
+	font-size: 15px;
+}
