@@ -1,8 +1,11 @@
 ---
-# the default layout is 'page'
 icon: fas fa-info-circle
 order: 4
+published: true
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+#####
+
+Welcome to my blog.
+
+My name is Erik. I created this blog as a place to document any thoughs and how-tos while working with Dynamics 365, Power Apps and Power Automate.
