@@ -1,6 +1,6 @@
 ---
 title: CRM Magics
-timezone: UTC
+timezone: Europe/Stockholm
 collections:
   posts:
     title: Posts
@@ -40,7 +40,7 @@ defaults:
   values:
     swcache: true
 theme: jekyll-theme-chirpy
-baseurl: ''
+baseurl: 
 lang: en
 tagline: My CRM Blog
 description: A blog about my Dynamics CRM findings
