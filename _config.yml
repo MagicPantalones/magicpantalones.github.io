@@ -32,8 +32,8 @@ url: 'https://magicpantalones.github.io/'
 github:
   username: Magicpantalones             # change to your github username
 
-twitter:
-  username: twitter_username            # change to your twitter username
+# twitter:
+  # username: twitter_username            # change to your twitter username
 
 social:
   # Change to your full name.
@@ -45,7 +45,7 @@ social:
     - https://github.com/Magicpantalones       # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    - https://www.linkedin.com/in/erik-hammersmark-aandal-225a72130
 
 google_site_verification:               # fill in to your verification string
 
@@ -70,7 +70,8 @@ google_analytics:
 #     light  - Use the light color scheme
 #     dark   - Use the dark color scheme
 #
-theme_mode: dark # [light|dark]
+theme_mode: dark 
+# [light|dark]
 
 # The CDN endpoint for images.
 # Notice that once it is assigned, the CDN url
