@@ -1,17 +1,15 @@
 ---
 title: First Post
 date: 2022-12-14 15:00:00 +01:00
+categories:
+- Blog
+tags:
+- blog
+- random
 comments: false
 toc: false
 ---
 
----
-
-title: First Post
-date: 2022-12-14 15:00:00 \+0100
-categories: \[Blog\]
-tags: \[blog, hello-world\]     # TAG names should always be lowercase
-
----
-
 ## Hello World!
+
+This is my first post!
